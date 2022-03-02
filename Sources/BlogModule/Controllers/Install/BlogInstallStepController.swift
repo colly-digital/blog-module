@@ -5,6 +5,9 @@
 //  Created by Tibor Bodecs on 2021. 12. 23..
 //
 
+//import FeatherCore
+import FeatherCoreApi
+
 struct BlogInstallStepController: SystemInstallStepController {
 
     private func render(_ req: Request, form: AbstractForm) -> Response {

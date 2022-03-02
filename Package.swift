@@ -11,7 +11,7 @@ let package = Package(
         .library(name: "BlogApi", targets: ["BlogApi"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/feathercms/feather-core", .branch("dev")),
+        .package(url: "https://github.com/feathercms/feather-core", .revision("a54c9323416e5a45f7a2d9b4ee601444ff04f154")),
     ],
     targets: [
         .target(name: "BlogApi", dependencies: [

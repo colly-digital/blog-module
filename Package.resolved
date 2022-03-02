@@ -6,8 +6,8 @@
         "repositoryURL": "https://github.com/swift-server/async-http-client.git",
         "state": {
           "branch": null,
-          "revision": "70826d038d5bdc3142a386b735792d87ef7a5dfc",
-          "version": "1.8.1"
+          "revision": "cbf533073d9a5edfb16c266d14151f69137ba7c9",
+          "version": "1.8.2"
         }
       },
       {
@@ -32,8 +32,8 @@
         "package": "feather-core",
         "repositoryURL": "https://github.com/feathercms/feather-core",
         "state": {
-          "branch": "dev",
-          "revision": "8dd36f6df8afeae73589f6be12aea0c60bc9297a",
+          "branch": null,
+          "revision": "a54c9323416e5a45f7a2d9b4ee601444ff04f154",
           "version": null
         }
       },
@@ -92,6 +92,15 @@
         }
       },
       {
+        "package": "spec",
+        "repositoryURL": "https://github.com/binarybirds/spec",
+        "state": {
+          "branch": null,
+          "revision": "aecab17649ac83133daa98e54620911773227946",
+          "version": "1.2.2"
+        }
+      },
+      {
         "package": "sql-kit",
         "repositoryURL": "https://github.com/vapor/sql-kit.git",
         "state": {
@@ -119,21 +128,12 @@
         }
       },
       {
-        "package": "swift-css",
-        "repositoryURL": "https://github.com/binarybirds/swift-css",
-        "state": {
-          "branch": null,
-          "revision": "c5a1741c83ca7eb6dcd0aec0eeefb7a0ca5d8d43",
-          "version": "1.0.1"
-        }
-      },
-      {
         "package": "swift-html",
         "repositoryURL": "https://github.com/binarybirds/swift-html",
         "state": {
           "branch": null,
-          "revision": "46702bedacb8e829f6ae1890ef6daa873d8ffe40",
-          "version": "1.1.0"
+          "revision": "b2620a6747fd664c892cfd20ff38d4c445bfa0d3",
+          "version": "1.6.8"
         }
       },
       {
@@ -177,8 +177,8 @@
         "repositoryURL": "https://github.com/apple/swift-nio-http2.git",
         "state": {
           "branch": null,
-          "revision": "6e94a7be32891d1b303a3fcfde8b5bf64d162e74",
-          "version": "1.19.1"
+          "revision": "000ca94f9de92c95b9ac85d44600b7b0fe25a3e5",
+          "version": "1.19.2"
         }
       },
       {
@@ -204,8 +204,8 @@
         "repositoryURL": "https://github.com/vapor/vapor",
         "state": {
           "branch": null,
-          "revision": "34bf1b303623de04801d2b9bef5b2ed48b3e9319",
-          "version": "4.54.0"
+          "revision": "e0fd4f3d76469dd6a0efb2be5c0b2f96b7581187",
+          "version": "4.55.1"
         }
       },
       {
